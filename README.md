@@ -77,6 +77,14 @@ Evaluated model performance using RMSE and R² scores.
 2. Run the data preprocessing and EDA notebook to clean and analyze the dataset.
 3. Run the model training notebook to train and evaluate the regression models.
 
+### Evaluation Metrics
+- **Training Data:**
+  - R² Score: **0.9952**
+  - Mean Absolute Error (MAE): **0.0405**
+- **Test Data:**
+  - R² Score: **0.9933**
+  - Mean Absolute Error (MAE): **0.0442**
+
 ### Results
 
 The final model performance will be evaluated using RMSE and R² scores to determine the accuracy and reliability of the predictions.
